@@ -5,7 +5,7 @@ Este projeto foi desenvolvido para demonstrar o funcionamento prático de **form
 ---
 **Conteúdo Complementar em Vídeo**  
 Para explicações adicionais, assista ao vídeo explicativo pelo link abaixo:  
-[[🔗 Link do Vídeo](https://youtu.be/nLHfJhlRzcA)]
+[[Link do Vídeo](https://youtu.be/nLHfJhlRzcA)]
 
 ---
 ## Conceitos Fundamentais
